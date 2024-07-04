@@ -1,1 +1,2 @@
-Parallel and Distributed Computation project, implementing omp and mpi. Test folder has instances to validate the code.
+Parallel and Distributed Computation project, implementing omp and mpi. 
+"tests" folder has instances to validate the code.
